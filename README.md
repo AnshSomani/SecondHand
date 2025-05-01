@@ -39,4 +39,8 @@ cd SecondHand
 
 ## Screenshots
 
-![image]()
+![UI Screenshot](images/one.png)
+![UI Screenshot](images/two.png)
+![UI Screenshot](images/three.png)
+![UI Screenshot](images/four.png)
+![UI Screenshot](images/five.png)
