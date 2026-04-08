@@ -1,6 +1,7 @@
 # SecondHand E-commerce Platform
 
-Welcome to **SecondHand**, a unique e-commerce platform crafted specifically for college students! Here, students can effortlessly trade pre-owned items with their peers, building a sustainable and convenient marketplace right on campus. This initiative not only supports the reuse of resources but also cuts down on transportation expenses by keeping exchanges local.
+Welcome to SecondHand — the campus-exclusive marketplace designed for college students!
+Buy, sell, and exchange pre-owned items effortlessly within your own campus community. SecondHand makes student-to-student trading simple, sustainable, and affordable by promoting reuse and eliminating unnecessary transportation costs.
 
 ## Website Url
 
